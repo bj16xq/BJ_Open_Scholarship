@@ -2,6 +2,8 @@
 
 This repository hosts information on and files of open access resources (a.k.a. "open content") for teaching, studying, research, and knowledge mobilization.
 
+Most resources are provided in markup language such as markdown (.md) and HTML (.html).
+
 For explanations of each resource, please view [the Wiki.](https://github.com/bj16xq/BJ_Open_Scholarship/wiki)
 
 ## Related Content
